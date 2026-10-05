@@ -1,0 +1,12 @@
+langgraph
+langchain-openai
+python-dotenv
+fastapi
+uvicorn
+python-telegram-bot
+langgraph-checkpoint-sqlite
+aiosqlite
+httpx
+pypdf
+langchain-text-splitters
+chromadb

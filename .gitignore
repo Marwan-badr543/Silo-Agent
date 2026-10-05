@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+silo_state.db*
+plugins/company_knowledge/docs/*.pdf
+plugins/company_knowledge/chroma_db/
+!plugins/company_knowledge/docs/demo_company.pdf
